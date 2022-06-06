@@ -1,8 +1,8 @@
 # Dio_Bootcamp
 Decola Tech 3ª Edição
 
-##Descrição:
+## Descrição:
 O intuito deste repositório é armazena todo conteúdo construído ao decorrer do curso.
 
-###Link Úteis:
+### Link Úteis:
 https://www.dio.me/bootcamp/decola-tech-3a-edicao
